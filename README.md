@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BurakTnc
-- 🌱 I’m Jr. Unity Game Developer
+- 🌱 Unity Game Developer
 - 📫 How to reach me https://www.linkedin.com/in/burak-tunç-7932b2219/
 
 <!---
